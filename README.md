@@ -25,6 +25,8 @@ A collection of awesome things regarding the Climate tech ecosystem.
 - [How to measure the carbon footprint of a web page](https://globalwarning.blog/measure-web-page-carbon-emission/)
 - [Web Hosting: Renewable Energy & Renewable Energy Credits](https://www.mightybytes.com/blog/web-hosting-renewable-energy/)
 - [Static Sites: A Secret Weapon for Fighting Climate Change](https://www.gatsbyjs.com/blog/static-sites-fight-climate-change/)
+- [Sustainable Drupal: 10 ways to save energy by speeding up your CMS](https://opensource.com/life/16/2/sustainable-drupal-save-energy-speeding-your-cms)
+- [Green LAMP: Save energy and the environment by optimizing your website](https://opensource.com/life/16/1/green-lamp-save-energy-and-environment-optimizing-your-website)
 
 #### Talks
 - [Understanding Sustainable Web Design](https://www.youtube.com/watch?v=o-eE6qKGeIE)
