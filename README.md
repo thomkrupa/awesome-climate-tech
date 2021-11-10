@@ -58,6 +58,18 @@ A collection of awesome things regarding the Climate tech ecosystem.
 - [Sustainable Tech: The Future Reimagined](https://circularcomputing.com/event/)
 - [Climathon: A Global Climate Action Programme](https://climathon.climate-kic.org/)
 
+### Organizations
+
+- [Climatescape](https://climatescape.org/) - Discover the organizations solving climate change
+- [Climatebase](https://climatebase.org/) - Make climate your career
+- [ClimateHub](https://climatehub.io/) - The network for climate tech
+
+### Platforms
+
+- [SINAI Technologies](https://www.sinaitechnologies.com/) - Decarbonization platform
+- [Persefoni](https://persefoni.com/) - Climate management & accounting platform
+- [ClimateOS](https://www.climateview.global/climateos) - Simulate, execute and manage your climate transition
+
 #### Misc
 
 - [Sustainable Web Manifesto](https://www.sustainablewebmanifesto.com/)
