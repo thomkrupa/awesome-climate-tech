@@ -22,6 +22,7 @@ A collection of awesome things regarding the Climate tech ecosystem.
 - [Leaders For Climate Action](https://lfca.earth/)
 - [Climate Designers](https://www.climatedesigners.org/)
 - [Climate in Colour](https://climateincolour.com/)
+- [Youth Climate Collaborative (Part of The Climate Initiative)](https://youthcc.org)
 
 #### Articles
 
@@ -63,6 +64,7 @@ A collection of awesome things regarding the Climate tech ecosystem.
 - [Climatescape](https://climatescape.org/) - Discover the organizations solving climate change
 - [Climatebase](https://climatebase.org/) - Make climate your career
 - [ClimateHub](https://climatehub.io/) - The network for climate tech
+- [The Climate Initiative](https://www.theclimateinitiative.org) - A non-partisan, solutions-based organization pushing for local, tangible solutions to a global challenge.
 
 ### Platforms
 
