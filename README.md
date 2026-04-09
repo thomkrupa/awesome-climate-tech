@@ -72,6 +72,10 @@ A collection of awesome things regarding the Climate tech ecosystem.
 - [Persefoni](https://persefoni.com/) - Climate management & accounting platform
 - [ClimateOS](https://www.climateview.global/climateos) - Simulate, execute and manage your climate transition
 
+#### Carbon Accounting — Learning Resources
+
+- [Scope 3 Challenge](https://github.com/co3org/Scope3-Challenge) - The conceptual foundation behind carbon accounting platforms: GHG scopes, all 15 Scope 3 categories, why data quality degrades through supply-chain tiers, and how inset credits create financial incentives for supplier decarbonisation. Companion reading for anyone evaluating or implementing carbon accounting software.
+
 #### Misc
 
 - [Sustainable Web Manifesto](https://www.sustainablewebmanifesto.com/)
