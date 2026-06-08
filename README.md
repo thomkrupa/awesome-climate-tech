@@ -72,6 +72,10 @@ A collection of awesome things regarding the Climate tech ecosystem.
 - [Persefoni](https://persefoni.com/) - Climate management & accounting platform
 - [ClimateOS](https://www.climateview.global/climateos) - Simulate, execute and manage your climate transition
 
+### AI Tools
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 #### Misc
 
 - [Sustainable Web Manifesto](https://www.sustainablewebmanifesto.com/)
