@@ -79,3 +79,8 @@ A collection of awesome things regarding the Climate tech ecosystem.
 - [Branch Magazine](https://branch.climateaction.tech/)
 - [Climate Mind](https://climatemind.org/)
 - [SOSV Climate Tech List](https://sosv.com/SOSV-climate-tech-100-list)
+
+
+## Climate Data
+
+- [ENSO Historical Dataset](https://github.com/dayu2333-jinyul/enso-historical-data) — 126 monthly ENSO records (1950-2026), ONI/SOI/subsurface data, CSV+JSON, CC0. DOI: 10.5281/zenodo.21717522
