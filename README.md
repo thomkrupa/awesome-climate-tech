@@ -64,6 +64,7 @@ A collection of awesome things regarding the Climate tech ecosystem.
 - [Climatescape](https://climatescape.org/) - Discover the organizations solving climate change
 - [Climatebase](https://climatebase.org/) - Make climate your career
 - [ClimateHub](https://climatehub.io/) - The network for climate tech
+- [SolarXlist](https://solarxlist.org/) - Global Solar & Energy Storage Company Directory
 - [The Climate Initiative](https://www.theclimateinitiative.org) - A non-partisan, solutions-based organization pushing for local, tangible solutions to a global challenge.
 
 ### Platforms
